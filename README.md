@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=34&duration=3000&pause=500&color=20C20E&background=2DFFFD00&center=true&width=500&height=70&lines=%3CHello%2C+There!%F0%9F%91%8B%3E;%3CThis+is+Priyanshu+Urkade!%3E;%3CNice+To+Meet+You!%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=34&duration=3000&pause=500&color=20C20E&background=2DFFFD00&center=true&vCenter=true&width=500&height=70&lines=%3CHello%2C+There!%F0%9F%91%8B%3E;%3CThis+is+Priyanshu+Urkade!%3E;%3CNice+To+Meet+You!%3E)](https://git.io/typing-svg)
 # 💫 About Me:
 👨‍💻 Welcome to my coding realm! <br>🎓I'am a Final Year Student at GGITS Jabalpur <br>💻 Competitive Programmer | 🌐 Front-End Developer 🚀<br>Passionate about 👩‍💻 coding, 🕵️‍♂️ problem-solving, and ✨ creating captivating web experiences.<br>Constantly expanding my skill set to stay at the forefront of 📈 industry trends.<br>Open to 🤝 collaboration and eager to learn from fellow developers.<br>Join me on this exhilarating coding journey. Let's create something 🌟 remarkable together!
 
@@ -19,10 +19,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshuu23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshuu23&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
